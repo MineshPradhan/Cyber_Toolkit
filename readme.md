@@ -34,7 +34,7 @@ This toolkit is intended for:
 2. Add all the files inside the .venv file
 3. Install the libraries in the virtual environment
 
-![image.png](image.png)
+<img width="855" height="487" alt="image" src="https://github.com/user-attachments/assets/3d2b94d2-2fbf-4525-b900-66c9228eaf3b" />
 
 ## 🧭 Menu Options
 
